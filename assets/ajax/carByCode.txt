@@ -1,0 +1,14 @@
+{
+  "id": 2222,
+  "objectBoxGuid": "2222",
+  "objectName": "2222",
+  "objectAddres": "2222",
+  "objectGuid": "2222",
+  "objectLatitude": 66.66,
+  "objectLongitude": 66.66,
+  "objectMeter": 2222,
+  "objectCode": "9999",
+  "objectType": 2222,
+  "objectFirstRecordDateTime": "",
+  "objectLastRecordDateTime": ""
+}

@@ -1,0 +1,66 @@
+[{
+		"boxGuid": "191171ce-6a81-101c-a111-c7e16d79f10e",
+		"boxMac": "00:0a:91:9d:68:16",
+		"boxType": 1,
+		"boxLat": 1.1,
+		"boxLong": 1.1,
+		"boxIp": "1.1.1.1",
+		"boxVersionNumber": 1,
+		"boxCntDownPeriod": 1,
+		"boxDetectionDuration": 1,
+		"boxMaxTryStandUpCnt": 1,
+		"boxMaxTrySendCnt": 1
+	},
+	{
+		"boxGuid": "292272ce-6a82-202c-a222-c7e26d79f20e",
+		"boxMac": "00:0a:92:9d:68:26",
+		"boxType": 2,
+		"boxLat": 2.2,
+		"boxLong": 2.2,
+		"boxIp": "2.2.2.2",
+		"boxVersionNumber": 2,
+		"boxCntDownPeriod": 2,
+		"boxDetectionDuration": 2,
+		"boxMaxTryStandUpCnt": 2,
+		"boxMaxTrySendCnt": 2
+	},
+	{
+		"boxGuid": "393373ce-6a83-303c-a333-c7e36d79f30e",
+		"boxMac": "00:0a:93:9d:68:36",
+		"boxType": 3,
+		"boxLat": 3.3,
+		"boxLong": 3.3,
+		"boxIp": "3.3.3.3",
+		"boxVersionNumber": 3,
+		"boxCntDownPeriod": 3,
+		"boxDetectionDuration": 3,
+		"boxMaxTryStandUpCnt": 3,
+		"boxMaxTrySendCnt": 3
+	},
+	{
+		"boxGuid": "494474ce-6a84-404c-a444-c7e46d79f40e",
+		"boxMac": "00:0a:94:9d:68:46",
+		"boxType": 4,
+		"boxLat": 4.4,
+		"boxLong": 4.4,
+		"boxIp": "4.4.4.4",
+		"boxVersionNumber": 4,
+		"boxCntDownPeriod": 4,
+		"boxDetectionDuration": 4,
+		"boxMaxTryStandUpCnt": 4,
+		"boxMaxTrySendCnt": 4
+	},
+	{
+		"boxGuid": "595575ce-6a85-505c-a555-c7e56d79f50e",
+		"boxMac": "00:0a:95:9d:68:56",
+		"boxType": 5,
+		"boxLat": 5.5,
+		"boxLong": 5.5,
+		"boxIp": "5.5.5.5",
+		"boxVersionNumber": 5,
+		"boxCntDownPeriod": 5,
+		"boxDetectionDuration": 5,
+		"boxMaxTryStandUpCnt": 5,
+		"boxMaxTrySendCnt": 5
+	}
+]
