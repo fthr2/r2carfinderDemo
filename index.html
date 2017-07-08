@@ -99,7 +99,6 @@
     <script type="text/javascript" src="assets/DataTables/DataTables-1.10.15/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="assets/DataTables/DataTables-1.10.15/js/dataTables.bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/DataTables/Select-1.2.2/js/dataTables.select.min.js"></script>
-    <script type="text/javascript" src="assets/DataTables/Editor-1.6.3/js/dataTables.editor.min.js"></script>
 
     <script type="text/javascript">
         var isHookedToCar = false;
@@ -121,7 +120,6 @@
         var iconStyle;
         var selectediconStyle;
         var refreshIntervalId;
-        var editor;
         var baseDto;
         var selectedTab = 0;
         function applyMargins() {
@@ -297,7 +295,6 @@
                     selectCarFeatureById(selectedCar);
                 });
 
-                editor = new $.fn.dataTable.Editor( {} );
                 boxTable = $('#boxTable').DataTable({
                     scrollY: 300,
                     scrollCollapse: true,
@@ -512,7 +509,6 @@
                         objectLongitude:obj.length > 3 ? obj[4] : obj[2]
                     };
 					
-					console.log(coorlat);
                     addCarToMap(temp);
                     itemOnMap = getMapFeatureById(obj[0]);
                 }
